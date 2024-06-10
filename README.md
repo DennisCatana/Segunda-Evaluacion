@@ -1,4 +1,6 @@
 # Segunda-Evaluacion
-Integrantes
+## Integrantes
 * Cataña Dennis
-* Cocha Iveth 
+* Cocha Iveth
+### Proyectos
+  Para este trabajo se mezclaron algunos proyectos para optimizar cada uno. 
