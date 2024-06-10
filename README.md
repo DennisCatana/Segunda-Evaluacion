@@ -11,4 +11,10 @@
   <br>
 
 ### Proyectos
-  Para este trabajo se mezclaron algunos proyectos para optimizar cada uno. 
+  Para este trabajo se mezclaron algunos proyectos para optimizar cada uno. <br>
+1. Aplicación de login y Hoja de vida
+   - https://github.com/DennisCatana/LoginCV.git <br>
+2. Aplicacion para tomar fotos
+   - https://github.com/DennisCatana/Fotos.git <br>
+3. 
+   
